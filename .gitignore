@@ -328,3 +328,10 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+.classpath
+.project
+.settings/
+.vscode/
+target/
+applicationinsights-agent-2.2.1.jar
